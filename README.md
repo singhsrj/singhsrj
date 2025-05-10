@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently undergrad at iiitv<br>im open to collaborate on ai ml projects<br>im currently learning deep learning<br>
+I am currently an undergraduate student at IIIT Vadodara, with a keen interest in artificial intelligence and machine learning.<br> I am actively seeking opportunities to collaborate on AI and ML projects and am presently focused on advancing my skills in deep learning.<br>
 
 
 ## 🌐 Socials:
