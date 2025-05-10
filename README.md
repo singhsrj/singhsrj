@@ -2,18 +2,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhsrj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhsrj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img align="right" height="150" src="https://i.imgflip.com/bq5c1.jpg"  />
+
+###
+
+<div align="left">
+
+I'm a passionate and versatile developer with experience in building full-stack applications, exploring data science, and working with cutting-edge technologies. My interests span across software development, AI/ML, and systems programming. I'm currently focused on leveraging Python, FastAPI, and React to create scalable, performant solutions. I'm also well-versed in tools like GitHub, Kaggle, and Neo4j, and enjoy working in both research-oriented and production environments.
+
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.imgflip.com/bq5c1.jpg"  />
-
-###
+<br clear="both" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
