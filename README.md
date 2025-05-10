@@ -8,7 +8,9 @@
 
 <div align="left">
 
-I'm a passionate and versatile developer with experience in building full-stack applications, exploring data science, and working with cutting-edge technologies. My interests span across software development, AI/ML, and systems programming. I'm currently focused on leveraging Python, FastAPI, and React to create scalable, performant solutions. I'm also well-versed in tools like GitHub, Kaggle, and Neo4j, and enjoy working in both research-oriented and production environments.
+🚀 I’m a passionate AI/ML developer with strong analytical foundations and hands-on experience in machine learning, deep learning, NLP, and generative AI. I've worked with frameworks like PyTorch, Transformers, Diffusers, LangChain, LangGraph, NLTK, scikit-learn, and more. I’ve also explored AI agents and enjoy building intelligent systems.
+
+💻 Beyond AI, I’ve worked on full-stack projects as a backend and database manager using FastAPI and MySQL. I'm experienced with tools like Docker, GitHub, and Unreal Engine, and I'm eager to dive deeper into Linux servers, SaaS platforms, and real-world innovation.
 
 </div>
 
