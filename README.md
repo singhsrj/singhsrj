@@ -8,9 +8,9 @@
 
 <div align="left">
 
-🚀 I’m a passionate AI/ML developer with strong analytical foundations and hands-on experience in machine learning, deep learning, NLP, and generative AI. I've worked with frameworks like PyTorch, Transformers, Diffusers, LangChain, LangGraph, NLTK, scikit-learn, and more. I’ve also explored AI agents and enjoy building intelligent systems.
+🚀 I’m a Pre-Final year CSE undergrad here at IIIT Vadodara with strong foundations in CS Fundamentals (Data Structure and Algorithms, Object Oriented Programming, Operating Systems, DBMS).
 
-💻 Beyond AI, I’ve worked on full-stack projects as a backend and database manager using FastAPI and MySQL. I'm experienced with tools like Docker, GitHub, and Unreal Engine, and I'm eager to dive deeper into Linux servers, SaaS platforms, and real-world innovation.
+I’ve worked on full-stack projects and experienced with software engineering tools like Git, Github, Docker and AWS and I'm eager to dive deeper into Linux servers, SaaS platforms, and real-world innovation.
 
 </div>
 
