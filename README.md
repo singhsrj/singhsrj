@@ -8,9 +8,9 @@
 
 <div align="left">
 
-🚀 I’m a Pre-Final year CSE undergrad here at IIIT Vadodara with strong foundations in CS Fundamentals (Data Structure and Algorithms, Object Oriented Programming, Operating Systems, DBMS).
+🚀 I’m a Final year CSE undergrad here at IIIT Vadodara with strong foundations in CS Fundamentals (Data Structure and Algorithms, Object Oriented Programming, Operating Systems, DBMS).
 
-I’ve worked on full-stack projects and experienced with software engineering tools like Git, Github, Docker and AWS and I'm eager to dive deeper into Linux servers, SaaS platforms, and real-world innovation.
+I’ve worked on full-stack projects and experienced with software engineering tools like Git, Github, Docker and AWS and I'm eager to dive deeper into Scripting, Conversational AI and AI Agents.
 
 </div>
 
