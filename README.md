@@ -8,9 +8,7 @@
 
 <div align="left">
 
-🚀 I’m a Final year CSE undergrad here at IIIT Vadodara with strong foundations in CS Fundamentals (Data Structure and Algorithms, Object Oriented Programming, Operating Systems, DBMS).
-
-I’ve worked on full-stack projects and experienced with software engineering tools like Git, Github, Docker and AWS and I'm eager to dive deeper into Scripting, Conversational AI and AI Agents.
+I'm a final-year CSE undergrad at IIIT Vadodara with strong foundations in CS fundamentals (Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, DBMS). I've worked on full-stack projects and I'm experienced with software engineering tools like Git, GitHub, Docker and AWS. Lately I've been building Conversational AI and AI Agents, with a focus on evaluation suites that measure how reliably they perform.
 
 </div>
 
